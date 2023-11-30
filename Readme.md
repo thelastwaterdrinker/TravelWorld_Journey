@@ -31,8 +31,8 @@ This project is licensed under the [MIT License](LICENSE).
 Happy travels! 🌍✈️
 
 ![](images/rm1.png)
-![](images/rm2)
-![](images/rm3)
+![](images/rm2.png)
+![](images/rm3.png)
 
 
 
