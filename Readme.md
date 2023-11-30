@@ -22,7 +22,7 @@ Feel free to customize the content, add more destinations, or modify the styles 
 
 ## Contributors
 
-- [Your Name]
+Tugba Dogan Webb
 
 ## License
 
@@ -30,7 +30,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Happy travels! 🌍✈️
 
-![](images/rm1)
+![](images/rm1.png)
 ![](images/rm2)
 ![](images/rm3)
 
